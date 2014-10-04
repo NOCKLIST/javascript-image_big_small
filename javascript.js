@@ -1,0 +1,1 @@
+function myGirl() { document.getElementById("WildHair").height="628"; document.getElementById("WildHair").width="640"; } function mylilGirl() { document.getElementById("WildHair").height="236"; document.getElementById("WildHair").width="240"; }
